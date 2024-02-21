@@ -1,6 +1,6 @@
 {
   "names": {
-    "mattcrv": "865b6bd38e22481c4589bc4b060a0c0cc1304fbdca9a0e3388d4282da8bb83a2"
+    "_": "865b6bd38e22481c4589bc4b060a0c0cc1304fbdca9a0e3388d4282da8bb83a2"
   },
   "relays": {
     "865b6bd38e22481c4589bc4b060a0c0cc1304fbdca9a0e3388d4282da8bb83a2": [ "wss://nostr.wine", "wss://relay.nostr.bg", "wss://relay.snort.social", "wss://nos.lol", "wss://eden.nostr.land", "wss://relay.mostr.pub", "wss://nostr.fmt.wiz.biz", "wss://nostr.oxtr.dev", "wss://relay.primal.net", "wss://relay.damus.io" ]
